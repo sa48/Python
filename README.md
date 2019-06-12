@@ -1,22 +1,21 @@
-# Python and Machine Learning Course
+# Repository for Python and Machine Learning
 
-## Agenda
-### Part 1 (Hans)
-* Python Language Introduction
-* Python Input and Output
-* Python Database Access
-* Exposing RESTful Service with Python
-* Python Data Visualization (optional)
+## How to use
 
-### Part 2 (Yuen Kwan)
-* Introduction to Machine Learning
-* Python Data Handling with NumPy, Panda
-* Regression
-* Classification
+* Go to a folder where you wanto to download this project to and type:
+~~~~
+git clone https://github.com/sa48/Python.git
+~~~~
 
-### Part 3 (Hans)
-* Clustering
-* Neural Network
+* Afterwards you can run Jupyter Notebook in the python folder.
 
-## Grading Matters 
-Total marks: 50 marks (30 marks exam + 20 marks CA)
+~~~~
+cd Python
+jupyter notebook
+~~~~
+
+The lessons and exercises will be updated everyday and you should do an update by issuing this command:
+
+~~~~
+git pull
+~~~~
